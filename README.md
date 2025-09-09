@@ -1,5 +1,5 @@
 ## 🌐 Descargar:
-[![](https://github.com/TheProtoDeus/Optideus/releases/tag/Proto)
+![Discord](https://github.com/TheProtoDeus/Optideus/releases/tag/Proto)
 ## 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EzuF4RCgqF) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@theprotodeus) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Prendock) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ProtoDeus) 
 
