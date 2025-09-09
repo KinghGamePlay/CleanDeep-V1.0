@@ -1,11 +1,11 @@
 ## 🌐 Descargar:
-[!🏆[Proto Active](https://github.com/TheProtoDeus/Optideus/releases/tag/Proto)
-🏆[Cleaner OSUO10](https://github.com/TheProtoDeus/Optideus/releases/tag/OSUO)
-🏆[3DChip Drivers](https://github.com/TheProtoDeus/Optideus/releases/tag/3DCHIP)
-🏆[Utility Cleaner](https://github.com/TheProtoDeus/Optideus/releases/tag/UtilitiesGlary)
-🏆[Winaero Cleaner](https://github.com/TheProtoDeus/Optideus/releases/tag/Winaero)
-🏆[Deep Clean Proto](https://github.com/TheProtoDeus/Optideus/releases/tag/Optimizador)
-🏆[BitBleach Cleaner](https://github.com/TheProtoDeus/Optideus/releases/tag/BitBleach)
+🏆[Proto Active](https://github.com/TheProtoDeus/Optideus/releases/tag/Proto)<br>
+🏆[Cleaner OSUO10](https://github.com/TheProtoDeus/Optideus/releases/tag/OSUO)<br>
+🏆[3DChip Drivers](https://github.com/TheProtoDeus/Optideus/releases/tag/3DCHIP)<br>
+🏆[Utility Cleaner](https://github.com/TheProtoDeus/Optideus/releases/tag/UtilitiesGlary)<br>
+🏆[Winaero Cleaner](https://github.com/TheProtoDeus/Optideus/releases/tag/Winaero)<br>
+🏆[Deep Clean Proto](https://github.com/TheProtoDeus/Optideus/releases/tag/Optimizador)<br>
+🏆[BitBleach Cleaner](https://github.com/TheProtoDeus/Optideus/releases/tag/BitBleach)<br>
 
 ## 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EzuF4RCgqF) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@theprotodeus) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Prendock) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ProtoDeus) 
